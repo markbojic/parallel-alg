@@ -1,4 +1,4 @@
-## Projects from Parallel Algorithms course
+## Projects for Parallel Algorithms course
 
 ###### Project 1 (Project1_1 and Project1_2) - Parallel implementation of Game of Life.
 ###### Project 2 (Projekat2_1, Projekat2_2, Projekat2_3) - Using PyCuda environment write a CUDA program for matrix multiplication.
